@@ -14,24 +14,21 @@
 
 ## Who i am?
 
-```py
-from Universe.Earth import Human
-
+```python
 class Soren(Human):
-  full_name = "Soren Shamlou"
-  age = 17
+    full_name = "Soren Shamlou"
+    age = 17
 
-
-  programming_lang = ["Python", "C#", "C++", "C", "Javascript"]
-  frameworks = ["Django", "Django REST", "Pandas", "Numpy", "Express", "Celery"]
-  Favorites = [
+    programming_lang = ["Python", "C#", "C++", "C", "Javascript"]
+    frameworks = ["Django", "Django REST", "Pandas", "Numpy", "Express", "Celery"]
+    favorites = [
         "Computer",
         "Programming",
         "AI",
         "Book", 
         "Game",
         "Music",
-  ]
+    ]
 ```
 
 [![Soren2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soren2007&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/Soren2007)
