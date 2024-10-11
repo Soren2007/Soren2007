@@ -23,14 +23,14 @@ class Soren(Human):
 
 
   programming_lang = ["Python", "C#", "C++", "C", "Javascript"]
-  frameworks = ["Django", "Django REST", "discord.py", "numpy", "express"]
+  frameworks = ["Django", "Django REST", "Pandas", "Numpy", "Express", "Celery"]
   Favorites = [
-        "computer",
-        "programming",
+        "Computer",
+        "Programming",
         "AI",
-        "book", 
-        "writting",
-        "music produce",
+        "Book", 
+        "Game",
+        "Music",
   ]
 ```
 
