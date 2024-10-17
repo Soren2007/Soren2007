@@ -1,16 +1,10 @@
 ## Hi there 👋
 
 
-**Soren2007
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Darsman Academy
+- 🌱 I’m currently learning AI
+- 💬 If you have any questions, ask through communication channels
 
 ## Who i am?
 
@@ -20,7 +14,7 @@ class Soren(Human):
     age = 17
 
     programming_lang = ["Python", "C#", "C++", "C", "Javascript"]
-    frameworks = ["Django", "Django REST", "Pandas", "Numpy", "Express", "Celery"]
+    frameworks = ["Django", "Django REST", "Pandas", "Numpy", "Express", "Celery" , "..."]
     favorites = [
         "Computer",
         "Programming",
@@ -28,6 +22,7 @@ class Soren(Human):
         "Book", 
         "Game",
         "Music",
+        "..."
     ]
 ```
 
