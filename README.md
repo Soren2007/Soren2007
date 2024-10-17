@@ -14,7 +14,19 @@ class Soren(Human):
     age = 17
 
     programming_lang = ["Python", "C#", "C++", "C", "Javascript"]
-    frameworks = ["Django", "Django REST", "Pandas", "Numpy", "Express", "Celery" , "..."]
+
+    website = "https://sorenshamlou.ir"
+
+    frameworks = [
+        "Django",
+        "Django REST",
+        "Pandas",
+        "Numpy",
+        "Express",
+        "Celery" ,
+         "..."
+    ]
+
     favorites = [
         "Computer",
         "Programming",
@@ -23,6 +35,13 @@ class Soren(Human):
         "Game",
         "Music",
         "..."
+    ]
+
+    projects = [
+        "Soren VPN",
+        "DarsmanCo",
+        "Foodino",
+        "The distance between the head and the book",
     ]
 ```
 
