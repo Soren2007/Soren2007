@@ -11,17 +11,22 @@
 ```python
 class Soren(Human):
     full_name = "Soren Shamlou"
+
     age = 17
 
     programming_lang = ["Python", "C#", "C++", "C", "Javascript"]
 
+    skils = ["Web developer", "Hardware programmer", "Software programmer", "AVR", "Arduino"]
+
     website = "https://sorenshamlou.ir"
+
+    instagram = "https://www.instagram.com/sorenshamlou"
+
+    linkedin = "https://linkedin.com/in/soren-shamlou-49823a230"
 
     frameworks = [
         "Django",
         "Django REST",
-        "Pandas",
-        "Numpy",
         "Express",
         "Celery" ,
          "..."
