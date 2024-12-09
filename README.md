@@ -1,4 +1,4 @@
-# Soren Shamlou💻
+# Soren Shamlou
 ## Hi there 👋
 
 
@@ -50,6 +50,8 @@ class Soren(Human):
         "The distance between the head and the book",
     ]
 ```
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,androidstudio,cs,nginx,redis,py,django,mongodb,mysql,js,html,css,wasm)](https://skillicons.dev)
 
 [![Soren2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soren2007&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/Soren2007)
 
