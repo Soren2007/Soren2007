@@ -51,7 +51,7 @@ class Soren(Human):
     ]
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,django,nginx,js,html,css,arduino,androidstudio,redis,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,kotlin,py,django,nginx,js,html,css,arduino,androidstudio,redis,mongodb,mysql,postgres,raspberrypi,kali)](https://skillicons.dev)
 
 [![Soren2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soren2007&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/Soren2007)
 
