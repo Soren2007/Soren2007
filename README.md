@@ -58,7 +58,5 @@ class Soren(Human):
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soren2007&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/Soren2007)
 
-[![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
-
 [![](https://visitcount.itsvg.in/api?id=Soren2007&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
