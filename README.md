@@ -6,7 +6,7 @@
     <p>Since I was 10 years old, I started building circuits and programming hardware with the C language. I programmed and built many robots, and I won first place in the line-following robot competition. Later, I became interested in software programming and began learning the C# programming language, writing my first backend project. From that project onwards, I developed a strong interest in the web domain and entered the field of web development. Hacking and security is another field of interest for me, and I have started working professionally with viruses, BadUSB, and Kali Linux.</p>
     <p>If I were to introduce one of my projects, I would mention SorenVPN, which is used by over 50,000 people and is active on <a href="https://play.google.com/store/apps/details?id=com.sorenvpnapp.vpnpro">Google Play</a> .<p>
     <a href="https://play.google.com/store/apps/details?id=com.sorenvpnapp.vpnpro" target="_blank">
-        <img lign="left" src="./images/projects/sorenvpn.jpg" alt="SOREN VPN"/> 
+        <img lign="left" src="./images/projects/sorenvpn.png" alt="SOREN VPN"/> 
     </a>
 
 </details>
