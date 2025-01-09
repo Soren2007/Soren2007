@@ -1,14 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=5500ff&text=Soren%20Shamlou&reversal=true&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20profile.&descAlign=50&descAlignY=65"/>
-
 <br>
-
 <details open>
     <summary><h2> <img alt="info" src="./icons/icons8-info-30.png" width="30px" /> About me </h2></summary>
     <p>Hello, my name is Soren Shamloo. I am 17 years old and I live in Iran.</p>
-    <p>I started building circuits and programming hardware with C language when I was 10 years old. I programmed and built many robots, and I won first place in the line-following robot competition. Later, I became interested in software programming and started learning the C# programming language, and I wrote my first backend project. From this project onwards, I developed a strong interest in the web and entered the web development field.</p>
+    <p>Since I was 10 years old, I started building circuits and programming hardware with the C language. I programmed and built many robots, and I won first place in the line-following robot competition. Later, I became interested in software programming and began learning the C# programming language, writing my first backend project. From that project onwards, I developed a strong interest in the web domain and entered the field of web development. Hacking and security is another field of interest for me, and I have started working professionally with viruses, BadUSB, and Kali Linux.</p>
+    <p>If I were to introduce one of my projects, I would mention SorenVPN, which is used by over 50,000 people and is active on Google Play.<p>
 </details>
-
-
+<br>
 <details open>
     <summary><h2> <img alt="info" src="./icons/icons8-info-30.png" width="30px" /> Social Media </h2></summary>
     <div id="badges" align="center">
@@ -55,5 +53,4 @@
     </div>
 </details>
 <br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5500ff&reversal=true&animation=fadeIn&descAlign=50&descAlignY=65&section=footer"/>
