@@ -31,7 +31,7 @@
 <br>
 <details open>
     <summary><h2> <img alt="info" src="./icons/icons8-info-30.png" width="30px" />  Favorite languages and Tools </h2></summary>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,kotlin,py,django,nginx,js,html,css,arduino,androidstudio,redis,mongodb,mysql,postgres,raspberrypi,kali" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,kotlin,py,django,nginx,js,html,css,postman,androidstudio,redis,mongodb,mysql,postgres,arduino,raspberrypi,kali,git,github" alt="Skills"/>
 </details>
 <br>
 <details open>
