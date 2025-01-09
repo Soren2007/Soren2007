@@ -17,13 +17,13 @@
         <a href="https://www.linkedin.com/in/soren-shamlou-49823a230/" target="_blank">
             <img lign="left" src="./images/social_media/linkedin.png" alt="Linkedin"/> 
         </a>
-        <a href="https://www.linkedin.com/in/soren-shamlou-49823a230/" target="_blank">
-            <img lign="left" src="./images/social_media/x.png" alt="X"/> 
+        <a href="https://www.threads.net/@sorenshamlou" target="_blank">
+            <img lign="left" src="./images/social_media/x.png" alt="Threads"/> 
         </a>
-        <a href="https://www.linkedin.com/in/soren-shamlou-49823a230/" target="_blank">
+        <a href="https://www.instagram.com/sorenshamlou/" target="_blank">
             <img lign="left" src="./images/social_media/instagram.png" alt="Instagram"/> 
         </a>
-        <a href="https://www.linkedin.com/in/soren-shamlou-49823a230/" target="_blank">
+        <a href="tel:+989932062665" target="_blank">
             <img lign="left" src="./images/social_media/whatsapp.png" alt="Whatsapp"/> 
         </a>
     </div>
