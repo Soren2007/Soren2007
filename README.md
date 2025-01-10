@@ -15,16 +15,16 @@
     <summary><h2> <img alt="info" src="./icons/icons8-info-30.png" width="30px" /> Social Media </h2></summary>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/soren-shamlou-49823a230/" target="_blank">
-            <img lign="left" src="./images/social_media/linkedin.png" alt="Linkedin"/> 
+            <img lign="left" src="./images/social_media/linkedin.png"/>
         </a>
         <a href="https://www.threads.net/@sorenshamlou" target="_blank">
-            <img lign="left" src="./images/social_media/x.png" alt="Threads"/> 
+            <img lign="left" src="./images/social_media/x.png"/> 
         </a>
         <a href="https://www.instagram.com/sorenshamlou/" target="_blank">
-            <img lign="left" src="./images/social_media/instagram.png" alt="Instagram"/> 
+            <img lign="left" src="./images/social_media/instagram.png"/> 
         </a>
         <a href="tel:+989932062665" target="_blank">
-            <img lign="left" src="./images/social_media/whatsapp.png" alt="Whatsapp"/> 
+            <img lign="left" src="./images/social_media/whatsapp.png"/>
         </a>
     </div>
 </details>
@@ -50,7 +50,7 @@
     <div align="center">
         <img height="192px" alt="Soren2007's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api?username=soren2007&show_icons=true&theme=radical" weight=40% height="192px"/>
         <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soren2007&theme=radical&show_icons=true&layout=compact"/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph/?username=soren2007&bg_color=141321&title_color=8142FF&color=8142FF&line=D93B7D&point=DEDEDE"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph/?username=soren2007&bg_color=141321&title_color=D93B7D&color=8142FF&line=D93B7D&point=DEDEDE"/>
         <br>
         <p align="centre"><b>Visitors Count</b></p>  
         <p align="center"><img align="center" src="https://profile-counter.glitch.me/soren2007/count.svg" /></p> 
