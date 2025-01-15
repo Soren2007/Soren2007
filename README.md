@@ -42,6 +42,7 @@
         <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/darsman_3.jpg" /></a>
         <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/darsman_4.jpg" /></a>
         <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/darsman_5.jpg" /></a>
+        <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/daneshjooyar-En-certificate-4876-kotlin-programming-language.jpg" /></a>
     </div>
 </details>
 <br>
@@ -50,7 +51,7 @@
     <div align="center">
         <img height="192px" alt="Soren2007's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api?username=soren2007&show_icons=true&theme=radical" weight=40% height="192px"/>
         <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soren2007&theme=radical&show_icons=true&layout=compact"/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph/?username=soren2007&bg_color=141321&title_color=D93B7D&color=8142FF&line=D93B7D&point=DEDEDE"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph/?username=soren2007&bg_color=141321&title_color=D93B7D&color=8142FF&line=D93B7D&point=DEDEDE" weight="95%" />
         <br>
         <p align="centre"><b>Visitors Count</b></p>  
         <p align="center"><img align="center" src="https://profile-counter.glitch.me/soren2007/count.svg" /></p> 
