@@ -46,7 +46,7 @@
         <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/darsman_3.jpg" /></a>
         <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/darsman_4.jpg" /></a>
         <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/darsman_5.jpg" /></a>
-        <!-- <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/daneshjooyar-En-certificate-4876-kotlin-programming-language.jpg" /></as> -->
+        <a href="https://sorenshamlou.ir/" target="_blank"> <img height ="230px"  src="./images/certificates/daneshjooyar-En-certificate-4876-kotlin-programming-language.jpg" /></as>
     </div>
 </details>
 <br>
