@@ -32,9 +32,9 @@
 <details open>
     <summary><h2> <img alt="info" src="./icons/icons8-info-30.png" width="30px" />  Favorite languages and Tools </h2></summary>
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,kotlin,py,django,nginx,js,html,css,postman,androidstudio,redis,mongodb,mysql,postgres,arduino,raspberrypi,kali,git,github" alt="Skills"/>
-    <div>
-    <img src="./images/gifs/pinguim.gif"/>
-    <img src="./images/gifs/Skills_Animation.gif"/>
+    <div align="center">
+        <img src="./gifs/pinguim.gif"/>
+        <img src="./gifs/Skills_Animation.gif"/>
     </div>
 </details>
 <br>
