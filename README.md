@@ -117,23 +117,12 @@ An Android VPN application with over one million downloads on Google Play.
 
 ---
 
-## 🔐 A Special Security Notice
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SECURITY%20NOTICE-PROTECTED%20BY%20H-7B2CFF?style=for-the-badge&logo=shieldsdotio&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Encryption-H%20Protocol-00C853?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Always%20Protected-success?style=flat-square"/>
-</p>
-
+## 🔐 Security Notice
 <p align="center">
   <b>01001000 01100001 01100100 01101001 01110011</b>
   <br/>
   <i>Behind every great developer, there is someone special.</i>
 </p>
-
 ---
 
 ## 🐧 Beyond Coding
