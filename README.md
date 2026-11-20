@@ -118,11 +118,13 @@ An Android VPN application with over one million downloads on Google Play.
 ---
 
 ## 🔐 Security Notice
+
 <p align="center">
   <b>01001000 01100001 01100100 01101001 01110011</b>
   <br/>
   <i>Behind every great developer, there is someone special.</i>
 </p>
+
 ---
 
 ## 🐧 Beyond Coding
